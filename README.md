@@ -1,2 +1,4 @@
-# void-updater
-"void updater" update pip package
+english☜(ﾟヮﾟ☜)
+hello everyone, here it is "void updater" this is the first version of it and it can only update pip packages for now.In other versions, if I don't drop it, there will be an update of packages or downloading them if you just write its name (yes, I understand that it's useless, but how can I fill out projects and a little bit of learning with it, and for you to see, for example, how you can open the console to output everything to it or how to use commands just for the sake of that's why I do such projects, maybe even to fill out a portfolio)
+Русский☜(ﾟヮﾟ☜)
+всем привет вот он "void updater" это первая версия его и он может только пока обновлять пакеты pip.В других версиях если я его не заброшу будет обновление пакетов или скачивание их если просто написать его название(да я понимаю то что он бесполезный но как для меня этим можно будет заполнить проекты и немножко обучения и для вас чтобы посмотрели например как можно открыть консоль чтобы в нее все выводить или как испольнять команды только ради этого я и делаю такие проекты ну может еще чтобы портфолио заполнить)
